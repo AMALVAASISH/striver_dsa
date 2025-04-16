@@ -102,23 +102,24 @@ import java.util.Stack;
 // queue is a linear data struccture that follows first in first out
 // like in a real queue
 
-import java.util.Queue;
+// import java.util.Queue;
 
-public class Main{
-    public static void main(String[] args){
-        Queue<Integer> qu = new LinkedList<>();
+// public class Main{
+//     public static void main(String[] args){
+//         Queue<Integer> qu = new LinkedList<>();
 
-        qu.add(1);
-        qu.add(2);
-        qu.add(1);
+//         qu.add(1);
+//         qu.add(2);
+//         qu.add(1);
 
-        System.out.println(qu.peek());
+//         System.out.println(qu.peek());
 
-        qu.remove();
+//         qu.remove();
 
-        qu.size();// gives the size
+//         qu.size();// gives the size
 
-        qu.isEmpty();
+//         qu.isEmpty();
 
-    }
-}
+//     }
+// }
+
